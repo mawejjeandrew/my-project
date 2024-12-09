@@ -1,0 +1,16 @@
+
+name: No-Code Automation Platform
+description: Project board for building the No-Code Automation Platform.
+columns:
+  - name: To Do
+    cards:
+      - note: Set up project repo (GitHub) - Create the initial GitHub repository.
+      - note: Set up FastAPI / Flask backend - Choose framework (FastAPI/Flask) and initialize the app.
+      - note: Design database schema - Tables: Users, Workflows, Triggers, Actions, Logs.
+  - name: In Progress
+    cards:
+      - note: Set up PostgreSQL database - Handle migrations using Alembic, Django ORM, or SQLAlchemy.
+      - note: Set up React/Next.js frontend - Initialize the frontend framework.
+  - name: Done
+    cards:
+      - note: Design UI/UX wireframes - Use Figma or Sketch to design wireframes.
